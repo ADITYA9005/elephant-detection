@@ -1,0 +1,5 @@
+classes = 1
+train = C:/yolo elephant detection/Elephant Detection.darknet/train.txt
+valid = C:/yolo elephant detection/Elephant Detection.darknet/valid.txt
+names = C:/yolo elephant detection/Elephant Detection.darknet/object.names
+backup = C:/yolo elephant detection/Elephant Detection.darknet/backup/
