@@ -31,24 +31,6 @@ SQL
 
 SMTP (for email notifications)
 
-Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/yourusername/elephant-tracking.git
-cd elephant-tracking
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Download and set up YOLO weights:
-
-wget https://example.com/yolo-weights-file
-
-Run the detection script:
-
-python detect.py
 
 Dataset Pre-processing
 
